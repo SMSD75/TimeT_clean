@@ -1,5 +1,5 @@
 # TimeT_clean
-This is a better implementation of TimeT model. 
+This is a better implementation of [TimeT model](https://github.com/SMSD75/Timetuning). 
 
 ## Running the Code
 
