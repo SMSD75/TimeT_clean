@@ -35,5 +35,5 @@ You should see something like this:
 
 ![Performance Curve](Images/Performance.png)
 
-Where the evaluation is done in PascalVOC.
+Where the evaluation is done on PascalVOC.
 
