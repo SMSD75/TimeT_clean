@@ -24,6 +24,10 @@ This is a better implementation of [TimeT model](https://github.com/SMSD75/Timet
    ```
 
 
+## Dataset Files
+
+The `train.txt` and `val.txt` files contain lists of video identifiers for the training and validation sets respectively. These files are used to split the dataset into training and validation subsets.
+
 ## Logging and Visualization
 
 The code uses Weights & Biases (wandb) for logging and visualization. Ensure you're logged in to your wandb account.
